@@ -1,0 +1,184 @@
+Date: Jan-2010 - Profit/Loss: $867884
+Date: Feb-2010 - Profit/Loss: $984655
+Date: Mar-2010 - Profit/Loss: $322013
+Date: Apr-2010 - Profit/Loss: $-69417
+Date: May-2010 - Profit/Loss: $310503
+Date: Jun-2010 - Profit/Loss: $522857
+Date: Jul-2010 - Profit/Loss: $1033096
+Date: Aug-2010 - Profit/Loss: $604885
+Date: Sep-2010 - Profit/Loss: $-216386
+Date: Oct-2010 - Profit/Loss: $477532
+Date: Nov-2010 - Profit/Loss: $893810
+Date: Dec-2010 - Profit/Loss: $-80353
+Date: Jan-2011 - Profit/Loss: $779806
+Date: Feb-2011 - Profit/Loss: $-335203
+Date: Mar-2011 - Profit/Loss: $697845
+Date: Apr-2011 - Profit/Loss: $793163
+Date: May-2011 - Profit/Loss: $485070
+Date: Jun-2011 - Profit/Loss: $584122
+Date: Jul-2011 - Profit/Loss: $62729
+Date: Aug-2011 - Profit/Loss: $668179
+Date: Sep-2011 - Profit/Loss: $899906
+Date: Oct-2011 - Profit/Loss: $834719
+Date: Nov-2011 - Profit/Loss: $132003
+Date: Dec-2011 - Profit/Loss: $309978
+Date: Jan-2012 - Profit/Loss: $-755566
+Date: Feb-2012 - Profit/Loss: $1170593
+Date: Mar-2012 - Profit/Loss: $252788
+Date: Apr-2012 - Profit/Loss: $1151518
+Date: May-2012 - Profit/Loss: $817256
+Date: Jun-2012 - Profit/Loss: $570757
+Date: Jul-2012 - Profit/Loss: $506702
+Date: Aug-2012 - Profit/Loss: $-1022534
+Date: Sep-2012 - Profit/Loss: $475062
+Date: Oct-2012 - Profit/Loss: $779976
+Date: Nov-2012 - Profit/Loss: $144175
+Date: Dec-2012 - Profit/Loss: $542494
+Date: Jan-2013 - Profit/Loss: $359333
+Date: Feb-2013 - Profit/Loss: $321469
+Date: Mar-2013 - Profit/Loss: $67780
+Date: Apr-2013 - Profit/Loss: $471435
+Date: May-2013 - Profit/Loss: $565603
+Date: Jun-2013 - Profit/Loss: $872480
+Date: Jul-2013 - Profit/Loss: $789480
+Date: Aug-2013 - Profit/Loss: $999942
+Date: Sep-2013 - Profit/Loss: $-1196225
+Date: Oct-2013 - Profit/Loss: $268997
+Date: Nov-2013 - Profit/Loss: $-687986
+Date: Dec-2013 - Profit/Loss: $1150461
+Date: Jan-2014 - Profit/Loss: $682458
+Date: Feb-2014 - Profit/Loss: $617856
+Date: Mar-2014 - Profit/Loss: $824098
+Date: Apr-2014 - Profit/Loss: $581943
+Date: May-2014 - Profit/Loss: $132864
+Date: Jun-2014 - Profit/Loss: $448062
+Date: Jul-2014 - Profit/Loss: $689161
+Date: Aug-2014 - Profit/Loss: $800701
+Date: Sep-2014 - Profit/Loss: $1166643
+Date: Oct-2014 - Profit/Loss: $947333
+Date: Nov-2014 - Profit/Loss: $578668
+Date: Dec-2014 - Profit/Loss: $988505
+Date: Jan-2015 - Profit/Loss: $1139715
+Date: Feb-2015 - Profit/Loss: $1029471
+Date: Mar-2015 - Profit/Loss: $687533
+Date: Apr-2015 - Profit/Loss: $-524626
+Date: May-2015 - Profit/Loss: $158620
+Date: Jun-2015 - Profit/Loss: $87795
+Date: Jul-2015 - Profit/Loss: $423389
+Date: Aug-2015 - Profit/Loss: $840723
+Date: Sep-2015 - Profit/Loss: $568529
+Date: Oct-2015 - Profit/Loss: $332067
+Date: Nov-2015 - Profit/Loss: $989499
+Date: Dec-2015 - Profit/Loss: $778237
+Date: Jan-2016 - Profit/Loss: $650000
+Date: Feb-2016 - Profit/Loss: $-1100387
+Date: Mar-2016 - Profit/Loss: $-174946
+Date: Apr-2016 - Profit/Loss: $757143
+Date: May-2016 - Profit/Loss: $445709
+Date: Jun-2016 - Profit/Loss: $712961
+Date: Jul-2016 - Profit/Loss: $-1163797
+Date: Aug-2016 - Profit/Loss: $569899
+Date: Sep-2016 - Profit/Loss: $768450
+Date: Oct-2016 - Profit/Loss: $102685
+Date: Nov-2016 - Profit/Loss: $795914
+Date: Dec-2016 - Profit/Loss: $60988
+Date: Jan-2017 - Profit/Loss: $138230
+Date: Feb-2017 - Profit/Loss: $671099
+1170593 -1196225 38382578 85
+Feb-2017
+['Jan-2010', 'Feb-2010', 'Mar-2010', 'Apr-2010', 'May-2010', 'Jun-2010', 'Jul-2010', 'Aug-2010', 'Sep-2010', 'Oct-2010', 'Nov-2010', 'Dec-2010', 'Jan-2011', 'Feb-2011', 'Mar-2011', 'Apr-2011', 'May-2011', 'Jun-2011', 'Jul-2011', 'Aug-2011', 'Sep-2011', 'Oct-2011', 'Nov-2011', 'Dec-2011', 'Jan-2012', 'Feb-2012', 'Mar-2012', 'Apr-2012', 'May-2012', 'Jun-2012', 'Jul-2012', 'Aug-2012', 'Sep-2012', 'Oct-2012', 'Nov-2012', 'Dec-2012', 'Jan-2013', 'Feb-2013', 'Mar-2013', 'Apr-2013', 'May-2013', 'Jun-2013', 'Jul-2013', 'Aug-2013', 'Sep-2013', 'Oct-2013', 'Nov-2013', 'Dec-2013', 'Jan-2014', 'Feb-2014', 'Mar-2014', 'Apr-2014', 'May-2014', 'Jun-2014', 'Jul-2014', 'Aug-2014', 'Sep-2014', 'Oct-2014', 'Nov-2014', 'Dec-2014', 'Jan-2015', 'Feb-2015', 'Mar-2015', 'Apr-2015', 'May-2015', 'Jun-2015', 'Jul-2015', 'Aug-2015', 'Sep-2015', 'Oct-2015', 'Nov-2015', 'Dec-2015', 'Jan-2016', 'Feb-2016', 'Mar-2016', 'Apr-2016', 'May-2016', 'Jun-2016', 'Jul-2016', 'Aug-2016', 'Sep-2016', 'Oct-2016', 'Nov-2016', 'Dec-2016', 'Jan-2017', 'Feb-2017']
+Index 0 in date list is: Jan-2010
+Index 1 in date list is: Feb-2010
+Index 2 in date list is: Mar-2010
+Index 3 in date list is: Apr-2010
+Index 4 in date list is: May-2010
+Index 5 in date list is: Jun-2010
+Index 6 in date list is: Jul-2010
+Index 7 in date list is: Aug-2010
+Index 8 in date list is: Sep-2010
+Index 9 in date list is: Oct-2010
+Index 10 in date list is: Nov-2010
+Index 11 in date list is: Dec-2010
+Index 12 in date list is: Jan-2011
+Index 13 in date list is: Feb-2011
+Index 14 in date list is: Mar-2011
+Index 15 in date list is: Apr-2011
+Index 16 in date list is: May-2011
+Index 17 in date list is: Jun-2011
+Index 18 in date list is: Jul-2011
+Index 19 in date list is: Aug-2011
+Index 20 in date list is: Sep-2011
+Index 21 in date list is: Oct-2011
+Index 22 in date list is: Nov-2011
+Index 23 in date list is: Dec-2011
+Index 24 in date list is: Jan-2012
+Index 25 in date list is: Feb-2012
+Index 26 in date list is: Mar-2012
+Index 27 in date list is: Apr-2012
+Index 28 in date list is: May-2012
+Index 29 in date list is: Jun-2012
+Index 30 in date list is: Jul-2012
+Index 31 in date list is: Aug-2012
+Index 32 in date list is: Sep-2012
+Index 33 in date list is: Oct-2012
+Index 34 in date list is: Nov-2012
+Index 35 in date list is: Dec-2012
+Index 36 in date list is: Jan-2013
+Index 37 in date list is: Feb-2013
+Index 38 in date list is: Mar-2013
+Index 39 in date list is: Apr-2013
+Index 40 in date list is: May-2013
+Index 41 in date list is: Jun-2013
+Index 42 in date list is: Jul-2013
+Index 43 in date list is: Aug-2013
+Index 44 in date list is: Sep-2013
+Index 45 in date list is: Oct-2013
+Index 46 in date list is: Nov-2013
+Index 47 in date list is: Dec-2013
+Index 48 in date list is: Jan-2014
+Index 49 in date list is: Feb-2014
+Index 50 in date list is: Mar-2014
+Index 51 in date list is: Apr-2014
+Index 52 in date list is: May-2014
+Index 53 in date list is: Jun-2014
+Index 54 in date list is: Jul-2014
+Index 55 in date list is: Aug-2014
+Index 56 in date list is: Sep-2014
+Index 57 in date list is: Oct-2014
+Index 58 in date list is: Nov-2014
+Index 59 in date list is: Dec-2014
+Index 60 in date list is: Jan-2015
+Index 61 in date list is: Feb-2015
+Index 62 in date list is: Mar-2015
+Index 63 in date list is: Apr-2015
+Index 64 in date list is: May-2015
+Index 65 in date list is: Jun-2015
+Index 66 in date list is: Jul-2015
+Index 67 in date list is: Aug-2015
+Index 68 in date list is: Sep-2015
+Index 69 in date list is: Oct-2015
+Index 70 in date list is: Nov-2015
+Index 71 in date list is: Dec-2015
+Index 72 in date list is: Jan-2016
+Index 73 in date list is: Feb-2016
+Index 74 in date list is: Mar-2016
+Index 75 in date list is: Apr-2016
+Index 76 in date list is: May-2016
+Index 77 in date list is: Jun-2016
+Index 78 in date list is: Jul-2016
+Index 79 in date list is: Aug-2016
+Index 80 in date list is: Sep-2016
+Index 81 in date list is: Oct-2016
+Index 82 in date list is: Nov-2016
+Index 83 in date list is: Dec-2016
+Index 84 in date list is: Jan-2017
+Index 85 in date list is: Feb-2017
+Greatest Increase in Profits: ['Jan-2010', 'Feb-2010', 'Mar-2010', 'Apr-2010', 'May-2010', 'Jun-2010', 'Jul-2010', 'Aug-2010', 'Sep-2010', 'Oct-2010', 'Nov-2010', 'Dec-2010', 'Jan-2011', 'Feb-2011', 'Mar-2011', 'Apr-2011', 'May-2011', 'Jun-2011', 'Jul-2011', 'Aug-2011', 'Sep-2011', 'Oct-2011', 'Nov-2011', 'Dec-2011', 'Jan-2012', 'Feb-2012', 'Mar-2012', 'Apr-2012', 'May-2012', 'Jun-2012', 'Jul-2012', 'Aug-2012', 'Sep-2012', 'Oct-2012', 'Nov-2012', 'Dec-2012', 'Jan-2013', 'Feb-2013', 'Mar-2013', 'Apr-2013', 'May-2013', 'Jun-2013', 'Jul-2013', 'Aug-2013', 'Sep-2013', 'Oct-2013', 'Nov-2013', 'Dec-2013', 'Jan-2014', 'Feb-2014', 'Mar-2014', 'Apr-2014', 'May-2014', 'Jun-2014', 'Jul-2014', 'Aug-2014', 'Sep-2014', 'Oct-2014', 'Nov-2014', 'Dec-2014', 'Jan-2015', 'Feb-2015', 'Mar-2015', 'Apr-2015', 'May-2015', 'Jun-2015', 'Jul-2015', 'Aug-2015', 'Sep-2015', 'Oct-2015', 'Nov-2015', 'Dec-2015', 'Jan-2016', 'Feb-2016', 'Mar-2016', 'Apr-2016', 'May-2016', 'Jun-2016', 'Jul-2016', 'Aug-2016', 'Sep-2016', 'Oct-2016', 'Nov-2016', 'Dec-2016', 'Jan-2017', 'Feb-2017'] ($[867884, 984655, 322013, -69417, 310503, 522857, 1033096, 604885, -216386, 477532, 893810, -80353, 779806, -335203, 697845, 793163, 485070, 584122, 62729, 668179, 899906, 834719, 132003, 309978, -755566, 1170593, 252788, 1151518, 817256, 570757, 506702, -1022534, 475062, 779976, 144175, 542494, 359333, 321469, 67780, 471435, 565603, 872480, 789480, 999942, -1196225, 268997, -687986, 1150461, 682458, 617856, 824098, 581943, 132864, 448062, 689161, 800701, 1166643, 947333, 578668, 988505, 1139715, 1029471, 687533, -524626, 158620, 87795, 423389, 840723, 568529, 332067, 989499, 778237, 650000, -1100387, -174946, 757143, 445709, 712961, -1163797, 569899, 768450, 102685, 795914, 60988, 138230, 671099])
+Financial Analysis
+-------------------------
+Total Months: 86
+Total Net Profit/Loss: $38382578
+Average Daily Change: $-2315.12
+Greatest Increase in Profits: Feb-2012 ($1170593)
+Greatest Decrease in Profits: Sep-2013 ($-1196225)
+
